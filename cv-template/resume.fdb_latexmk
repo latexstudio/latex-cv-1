@@ -1,14 +1,11 @@
 # Fdb version 3
-["xdvipdfmx"] 1649616155 "resume.xdv" "resume.pdf" "resume" 1649616159
-  "resume.xdv" 1649616155 57320 04aa3278407242e37f5968bd822f7acd "xelatex"
+["xdvipdfmx"] 1649676491 "resume.xdv" "resume.pdf" "resume" 1649676492
+  "resume.xdv" 1649676491 55932 e2638c358fa858bc0bcd10c16a1a28db "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1649616152 "c:/Users/aidan/Documents/GitHub/LaTeX/cv-template/resume.tex" "resume.xdv" "resume" 1649616159
-  "C:/Users/aidan/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1649616118 23671440 1914f6f07957469188b01cabb29a1db6 ""
+["xelatex"] 1649676489 "c:/Users/aidan/Documents/GitHub/LaTeX/cv-template/resume.tex" "resume.xdv" "resume" 1649676492
+  "C:/Users/aidan/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1649668681 23671440 0bcf51b464ed68af75cd246521da019c ""
   "C:/Users/aidan/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136793854 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
-  "C:/Users/aidan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
-  "C:/Users/aidan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi5.tfm" 1136768653 1508 c4419b1e413bcd6205bf37867d782a47 ""
-  "C:/Users/aidan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi7.tfm" 1136768653 1528 e2423ae06dc7dee599cceb79d1c9dc32 ""
   "C:/Users/aidan/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575574700 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/aidan/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576437202 40635 c40361e206be584d448876bba8a64a3b ""
   "C:/Users/aidan/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty" 1575930176 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -96,7 +93,7 @@
   "C:/Users/aidan/AppData/Local/Programs/MiKTeX/tex/latex/base/fix-cm.sty" 1638778682 14741 04be450f114b49e7fd6f68a0f75f06f0 ""
   "C:/Users/aidan/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty" 1638778684 4946 461cc78f6f26901410d9f1d725079cc6 ""
   "C:/Users/aidan/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty" 1638778684 5157 f308c7c04889e16c588e78aa42599fae ""
-  "C:/Users/aidan/AppData/Local/Programs/MiKTeX/tex/latex/base/size11.clo" 1638778684 8464 74db94825c407b51399ca17d9bd38a3d ""
+  "C:/Users/aidan/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1638778684 8448 96f18c76bf608a36ee6fbf021ac1dd32 ""
   "C:/Users/aidan/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1enc.def" 1638778682 8044 fa8875fa7360fa4a5757411aa07dae10 ""
   "C:/Users/aidan/AppData/Local/Programs/MiKTeX/tex/latex/base/tuenc.def" 1638778682 29098 3e2b8f2cbae539bde3ed8f63503c0954 ""
   "C:/Users/aidan/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumitem.sty" 1561039820 51697 f8f08183cd2080d9d18a41432d651dfb ""
@@ -162,14 +159,15 @@
   "C:/Users/aidan/AppData/Local/Programs/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448278036 5689 1bfa68243e89a54479e7d0580773c57e ""
   "C:/Users/aidan/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1623005690 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "awesome-cv.cls" 1649628856 27531 ebd1c05b3c0f859e9c22ca2383a556a5 ""
-  "c:/Users/aidan/Documents/GitHub/LaTeX/cv-template/resume.tex" 1649628856 3638 b82fa9149472dc3de860b1c58cc69bcd ""
-  "resume.aux" 1649616155 652 27234ec14a0cd9df31d7cc62edcdbc23 "xelatex"
+  "c:/Users/aidan/Documents/GitHub/LaTeX/cv-template/resume.tex" 1649675138 3673 d809fdde0a4a1b7bd76dedcf03f94b22 ""
+  "resume.aux" 1649676491 652 27234ec14a0cd9df31d7cc62edcdbc23 "xelatex"
   "resume.out" 0 -1 0 "xelatex"
-  "resume.tex" 1649628856 3638 b82fa9149472dc3de860b1c58cc69bcd ""
-  "resume/awards.tex" 1649628856 2733 71e67e042aa21875ccd9180bc093b342 ""
-  "resume/education.tex" 1649628856 1075 ec8c1543dcdfa3e3e55721b6e32bc9c6 ""
-  "resume/experience.tex" 1649628856 3121 cfb0a0e5e8ab7c444e402082a39962bc ""
-  "resume/skills.tex" 1649628856 1818 a19756761aa88acb72589b95c4874e69 ""
+  "resume.tex" 1649675138 3673 d809fdde0a4a1b7bd76dedcf03f94b22 ""
+  "resume/awards.tex" 1649672197 2773 146cb620299ffe40bbf7900ac54b2adf ""
+  "resume/education.tex" 1649676482 1152 7ae1dccf7e730b1bd476bab4da0b0dd9 ""
+  "resume/experience.tex" 1649674325 3122 8c6a4fe31195161e29b6aff738782d39 ""
+  "resume/projects.tex" 1649674826 1304 e35b7e9408c95a7137475a82bbe90099 ""
+  "resume/skills.tex" 1649669236 1828 0593cbb855794ab627014f7bdf2a50e7 ""
   (generated)
   "resume.aux"
   "resume.log"
