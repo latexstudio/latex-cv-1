@@ -82,6 +82,8 @@
 \RequirePackage[skins]{tcolorbox}
 % Needed to deal a paragraphs
 \RequirePackage{parskip}
+% Needed to adjust alignment
+\RequirePackage[export]{adjustbox}
 % Needed to deal hyperlink
 \RequirePackage[hidelinks,unicode]{hyperref}
 \hypersetup{%
@@ -180,9 +182,27 @@
   BoldItalicFont=*-MediumItalic,
 ]{Roboto}
 
+\newfontfamily\trebucfont[
+  Path=\@fontdir,
+  UprightFont=*,
+  ItalicFont=*it,
+  BoldFont=*bd,
+  BoldItalicFont=*bi,
+]{trebuc}
+
+\newfontfamily\palafont[
+  Path=\@fontdir,
+  UprightFont=*,
+  ItalicFont=*i,
+  BoldFont=*b,
+  BoldItalicFont=*bi,
+]{pala}
+
 \newcommand*{\footerfont}{\sourcesanspro}
 \newcommand*{\bodyfont}{\sourcesanspro}
 \newcommand*{\bodyfontlight}{\sourcesansprolight}
+% \newcommand*{\bodyfont}{\trebucfont}
+% \newcommand*{\bodyfontlight}{\palafont}
 
 %-------------------------------------------------------------------------------
 %                Configuration for styles
@@ -598,7 +618,7 @@
   \paragraphstyle
 }{%
   \par
-  \vspace{2mm}
+  \vspace{0mm}
 }
 
 % Define an environment for cventry
