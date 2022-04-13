@@ -262,7 +262,7 @@
 }
 
 \newcommand*{\cvtagbf}[1]{%
-  \tikz[baseline]\node[anchor=base,draw,rounded corners,very thick,inner xsep=1ex,inner ysep =0.75ex,text height=1.5ex,text depth=.25ex]{#1};
+  \tikz[baseline]\node[anchor=base,draw,rounded corners,very thick,inner xsep=1ex,inner ysep =0.75ex,text height=1.5ex,text depth=.25ex]{\textbf{#1}};
 }
 
 %\newcommand*{\cvtagbf}[1]{%
@@ -595,11 +595,12 @@
 
 % Define a section for CV
 % Usage: \cvsection{<section-title>}
-\newcommand{\cvsection}[1]{%
+\newcommand{\cvsection}[2]{%
   \vspace{\acvSectionTopSkip}
   \sectionstyle{#1}
   \phantomsection
   \color{gray}\vhrulefill{0.9pt}
+  {#2}
 }
 
 % Define a subsection for CV
